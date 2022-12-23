@@ -4,4 +4,5 @@ include 'Day2'
 include 'Day3'
 include 'Day4'
 include 'Day5'
+include 'Day6'
 
